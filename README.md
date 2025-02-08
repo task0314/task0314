@@ -1,4 +1,4 @@
-現在Unityを通してC#を学習中
+typescript,java,kotlinやりたい
 
 <!---
 task0314/task0314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
